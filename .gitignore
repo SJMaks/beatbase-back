@@ -1,2 +1,8 @@
 # Private docs
 docs
+
+# Env file
+.env
+
+# Output folder
+out
